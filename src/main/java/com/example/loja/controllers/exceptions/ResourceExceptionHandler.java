@@ -1,4 +1,4 @@
-package com.example.loja.controllera.exceptions;
+package com.example.loja.controllers.exceptions;
 
 import java.time.Instant;
 
